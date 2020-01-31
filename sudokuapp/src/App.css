@@ -1,0 +1,57 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center; 
+  margin-top: 300px;
+}
+
+.Box1-row {
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  height: 100px;
+  
+  
+ 
+}
+.Box{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(88, 241, 190);
+  
+  text-align: center;
+  font-size: 90px;
+  
+}
+
+input{
+  width: 96px;
+  height: 96px;
+  text-align: center;
+  border: none;
+  font-size: 90px;
+ 
+ 
+ 
+}
+.grid-box{
+  border: darkolivegreen 1px solid;
+}
+.line{
+  display: flex;
+  flex-direction: column;
+}
+
+h1{
+  background-color: blueviolet;
+  height: 50px;
+  text-align: center;
+}
