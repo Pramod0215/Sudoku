@@ -4,13 +4,14 @@
 This is simple sudoku. 
 
 ## Function
-Addition, Substraction, Multiply, divsion, Reset
+In this Game User have 3 chance and every attempt the box changed colour( 1st green, 2nd yellow 3rd Red). 
+if answer is correct box disable.
 
 How to download repo
 ```
-git clone https://github.com/Pramod0215/Calculator/
+git clone https://github.com/Pramod0215/Sudoku/
 ```
-Go to 'React/Calculator/calculatorapp' and type the following code in the terminal:
+Go to 'React/Sudoku/sudokuapp' and type the following code in the terminal:
 ```
 "sudo apt install nodejs",
 "node --version",
