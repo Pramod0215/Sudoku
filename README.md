@@ -1,7 +1,7 @@
 # Sudoku
 
 
-This is simple calculator. 
+This is simple sudoku. 
 
 ## Function
 Addition, Substraction, Multiply, divsion, Reset
