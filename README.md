@@ -5,7 +5,7 @@ This is simple sudoku.
 
 ## Function
 In this Game User have 3 chance and every attempt the box changed colour( 1st green, 2nd yellow 3rd Red). 
-if answer is correct box disable.
+if answer is correct box then locked.
 
 How to download repo
 ```
