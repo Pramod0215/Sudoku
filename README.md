@@ -23,4 +23,5 @@ Then to run the react server, type the code:
 npm start
 
 # Images
-![suduko](https://github.com/Pramod0215/Sudoku/blob/master/image/Screenshot%20from%202020-02-01%2016-13-07.png)<br>
+
+![Sudoku](![alt Home Page](https://github.com/Pramod0215/Student-management-system/blob/studentdb/image/Screenshot%20from%202020-01-31%2018-53-53.png)<br>)<br>
