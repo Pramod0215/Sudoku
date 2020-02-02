@@ -28,4 +28,6 @@ npm start
 >
 ![Sudoku](![alt Home Page](https://github.com/Pramod0215/Sudoku/blob/master/image/Screenshot%20from%202020-02-01%2016-13-30.png)<br>)<br>
 
-
+https://github.com/Pramod0215/Sudoku/blob/master/image/Screenshot%20from%202020-02-01%2016-13-30.png
+https://github.com/Pramod0215/Sudoku/blob/master/image/Screenshot%20from%202020-02-01%2016-13-48.png
+https://github.com/Pramod0215/Sudoku/blob/master/image/Screenshot%20from%202020-02-01%2016-14-01.png
