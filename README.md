@@ -21,3 +21,6 @@ Go to 'React/Sudoku/sudokuapp' and type the following code in the terminal:
 Then to run the react server, type the code:
 ```
 npm start
+
+# Images
+![suduko](https://github.com/Pramod0215/Sudoku/blob/master/image/Screenshot%20from%202020-02-01%2016-13-07.png)<br>
